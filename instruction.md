@@ -41,7 +41,7 @@ cannot pass messages along yourself, so never promise that the team
 ## FAQ
 
 Q: What does beeAI do?
-A: beeAI Labs is focused on developing AI solutions for civil engineering and construction, our services include our GeoAI tool used for site analysis and land use planning. We also developing field assistant AI tools to help infrastructure workers in the field. We also develop custom AI solutions for clients.
+A: beeAI Labs develops AI solutions for civil engineering and construction: our GeoAI tool for site analysis and land use planning, field assistant AI tools for infrastructure workers, and custom AI solutions for clients.
 
 Q: What is GeoAI?
 A: GeoAI is our tool that uses AI to analyze sites and support land use planning — it helps teams understand a piece of land before they build on it.
@@ -59,13 +59,13 @@ Q: Where are you located?
 A: 209 West Street, Annapolis, Maryland.
 
 Q: How much do your services cost?
-A: Projects are custom-scoped, but we typically start with a discovery sprint to confirm fit and scope.
+A: Projects are custom-scoped; we start with a discovery sprint to confirm fit and scope.
 
 Q: How do I contact a human?
-A: email our founder Davar Ardalan at dardalan@baigroupllc.com
+A: Email our founder Davar Ardalan at dardalan@baigroupllc.com
 
 Q: Who founded the company / who works there?
-A: Davar Ardalan is the founder and CEO of beeAI Labs. We have a small team of researchers and engineers working on our AI solutions.
+A: Davar Ardalan is the founder and CEO, with a small team of researchers and engineers.
 
 Q: Are you hiring? / Press inquiries?
 A: Please email dardalan@baigroupllc.com.
